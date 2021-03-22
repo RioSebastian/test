@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="6dp">
+
+    <TextView
+        android:id="@+id/listlagu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="List Lagu"
+        android:background="@drawable/custom_bar"
+        android:textStyle="bold"
+        android:textSize="24sp"/>
+    <TextView
+        android:id="@+id/music1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="I Could Have Lied.mp3 "
+        android:textStyle="bold"
+        android:textSize="24sp"/>
+
+    <TextView
+        android:id="@+id/music2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Zona Nyaman.mp3 "
+        android:textStyle="bold"
+        android:textSize="24sp"/>
+
+    <TextView
+        android:id="@+id/music3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Linger.mp3 "
+        android:textStyle="bold"
+        android:textSize="24sp"/>
+
+    <TextView
+        android:id="@+id/music4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bang Jali.mp3 "
+        android:textStyle="bold"
+        android:textSize="24sp"/>
+
+    <TextView
+        android:id="@+id/music5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sesuatu di Jogja.mp3 "
+        android:textStyle="bold"
+        android:textSize="24sp"/>
+    <TextView
+        android:id="@+id/music6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sepatu.mp3 "
+        android:textStyle="bold"
+        android:textSize="24sp"/>
+
+    <TextView
+        android:id="@+id/music7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="lalala.mp3 "
+        android:textStyle="bold"
+        android:textSize="24sp"/>
+
+    <TextView
+        android:id="@+id/music8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="rehat.mp3 "
+        android:textStyle="bold"
+        android:textSize="24sp"/>
+
+    <TextView
+        android:id="@+id/music9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gajah.mp3 "
+        android:textStyle="bold"
+        android:textSize="24sp"/>
+
+    <TextView
+        android:id="@+id/music10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="You are the reason.mp3 "
+        android:textStyle="bold"
+        android:textSize="24sp"/>
+    <TextView
+        android:id="@+id/music11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Love you anymore.mp3 "
+        android:textStyle="bold"
+        android:textSize="24sp"/>
+    <TextView
+        android:id="@+id/music12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="All i need is you.mp3 "
+        android:textStyle="bold"
+        android:textSize="24sp"/>
+    <TextView
+        android:id="@+id/music13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Love someone.mp3 "
+        android:textStyle="bold"
+        android:textSize="24sp"/>
+    <TextView
+        android:id="@+id/music14"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Empty space.mp3 "
+        android:textStyle="bold"
+        android:textSize="24sp"/>
+    <TextView
+        android:id="@+id/music15"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="someone you love.mp3 "
+        android:textStyle="bold"
+        android:textSize="24sp"/>
+
+
+</LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
